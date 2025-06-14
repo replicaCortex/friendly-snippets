@@ -25,7 +25,7 @@
         "description": "\\cdot"
     },
     "infinity": {
-        "prefix": "@8",
+        "prefix": "00",
         "body": "\\infty",
         "description": "infinity symbol"
     },
