@@ -175,12 +175,12 @@
         "description": "Insert a proof, whose style is already defined in the template. The serial number is automatically generated according to the section."
     },
     "Large Integral": {
-        "prefix": ["integrallarge", "\\integrallarge"],
+        "prefix": ["intl", "\\intl"],
         "body": ["\\displaystyle\\int_{$1}^{$2}$3"],
         "description": "Insert large integral notation."
     },
     "Inline Integral": {
-        "prefix": ["integralinline", "\\integralinline"],
+        "prefix": ["int", "\\int"],
         "body": ["\\int_{$1}^{$2}$3"],
         "description": "Insert inline integral notation, (only in the cases when the environment is inline math environment)."
     },
