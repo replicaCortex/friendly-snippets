@@ -33,7 +33,7 @@
                 "path": "./snippets/lua/luadoc.json"
             },
             {
-                "language": "shelldoc",
+                "language": "sh",
                 "path": "./snippets/shell/shelldoc.json"
             },
             {
@@ -66,7 +66,7 @@
                 "path": "./snippets/python/python.json"
             },
             {
-                "language": "pydoc",
+                "language": "python",
                 "path": "./snippets/python/pydoc.json"
             },
             {

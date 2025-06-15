@@ -44,6 +44,11 @@
         "body": "from ${1:pathlib} import ${2:Path}",
         "description": "Import individual objects directly into the caller’s symbol table"
     },
+    "import ... as ...": {
+        "prefix": "asim",
+        "body": "import ${1:module} as ${2:alias}",
+        "description": "Import and alias"
+    },
     "if": {
         "prefix": "if",
         "body": ["if ${1:condition}:", "\t${2:pass}"],

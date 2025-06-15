@@ -280,9 +280,9 @@
         "body": [
             "\\begin{figure}",
             "\t\\begin{center}",
-            "\t\t\\includegraphics[width=0.95\\textwidth]{figures/$1}",
+            "\t\t\\includegraphics[width=0.80\\textwidth]{figures/$1}",
             "\t\\end{center}",
-            "\t\\caption{$3}\\label{fig:$4}",
+            "\t\\caption{$1}\\label{fig:$1}",
             "\\end{figure}",
             "$0"
         ],
