@@ -37,6 +37,10 @@
                 "path": "./snippets/shell/shelldoc.json"
             },
             {
+                "language": "shell",
+                "path": "./snippets/shell/shell.json"
+            },
+            {
                 "language": ["markdown", "rmd"],
                 "path": "./snippets/markdown.json"
             },
