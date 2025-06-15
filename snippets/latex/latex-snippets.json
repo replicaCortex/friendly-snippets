@@ -9,6 +9,11 @@
         ],
         "description": "Add a Equation"
     },
+    "Display Math — \\[ … \\]": {
+        "prefix": "$$",
+        "body": ["\\[", "\t$TM_SELECTED_TEXT$1", "\\]"],
+        "description": "Display Math"
+    },
     "Figure:Ref": {
         "prefix": "figure:ref",
         "body": ["Рисунок~\\ref{fig:$2}$0"],
