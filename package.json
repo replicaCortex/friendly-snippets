@@ -37,7 +37,7 @@
                 "path": "./snippets/shell/shelldoc.json"
             },
             {
-                "language": "shell",
+                "language": "sh",
                 "path": "./snippets/shell/shell.json"
             },
             {
